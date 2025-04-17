@@ -70,3 +70,12 @@ body {
     color: rgb(43, 224, 215);
 
 }
+
+.js-result::first-letter {
+    color: rgb(217, 25, 25);
+
+}
+
+.js-input::placeholder {
+    color: rgb(43, 224, 215);
+}
